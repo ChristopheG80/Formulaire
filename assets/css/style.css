@@ -1,0 +1,20 @@
+SELECT.largeur {
+    width: 10rem;
+    }
+
+input:invalid {
+    border: 2px dashed red;
+}
+      
+input:valid {
+    border: 1px solid black;
+}
+label{
+    text-align: left;
+}
+input{
+    justify-content: right;
+}
+script{
+    display: none;
+}

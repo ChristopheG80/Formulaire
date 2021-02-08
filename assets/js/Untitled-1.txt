@@ -1,0 +1,1 @@
+<img src="/img/hosting/workspace2.png" class="invisible-img media-object img-responsive wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s" alt="WorkSpace, le WebMail Swiss Made" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInRight;">
